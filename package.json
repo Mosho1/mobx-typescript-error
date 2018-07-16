@@ -1,0 +1,16 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mobx": "^5.0.3",
+    "mobx-state-tree": "^3.0.0",
+    "typescript": "^2.9.2"
+  }
+}
